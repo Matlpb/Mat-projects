@@ -7,9 +7,9 @@ import requests
 
 # Alpaca API credentials
 alpaca_api_url = "https://paper-api.alpaca.markets"
-openAI_api_key = "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"
-alpaca_api_key = 'PKGX6RNBBYA1D5ULSGTF'
-alpaca_api_secret = 'MYI6F0cB6BRH1yqcs9qysxaantsnFMrg0Nh7MfLV'
+openAI_api_key = 
+alpaca_api_key = 
+alpaca_api_secret = 
 
 # Alpaca API initialization
 api = alpaca_api.REST(alpaca_api_key, alpaca_api_secret, base_url='https://paper-api.alpaca.markets')
